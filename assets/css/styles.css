@@ -32,6 +32,26 @@ a {
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
 }
+/* competences */
+.node {
+  color:Tomato;
+  
+}
+.javascript{
+  color:yellowgreen;
+}
+.angular{
+  color:red;
+}
+.html5{
+ color:orange;
+}
+.css3{
+ color:lightseagreen;
+}
+.github{
+
+}
 a:hover {
   text-decoration: underline;
   color: #1a454f;
@@ -41,6 +61,16 @@ a:focus {
 }
 p {
   line-height: 1.5;
+}
+/* Download button */
+
+.btn {
+  text-decoration: none;
+  background: #EF233C;
+  color: white;
+  padding: 10px;
+  display: inline-block;
+  margin-bottom: 10px;
 }
 .wrapper {
   background: #42A8C0;
